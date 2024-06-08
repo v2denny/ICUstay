@@ -7,3 +7,7 @@ Files:
 4. cdle_RF - Random Forest model for ICU STAY PREDICTION
 5. cdle_CB - CatBoost model for ICU STAY PREDICTION
 6. cdle_CNN - CNN model for ICU STAY PREDICTION
+
+
+
+By: Daniel Dias, Lucas Santiago, Miguel Lopes
